@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SYDTEK BLE V2.0.1</string>
+    <string name="title_activity_ota_active">OTA_Active</string>
+    <string name="title_activity_about_active">ABOUT_Active</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OTADemo.iml" filepath="$PROJECT_DIR$/.idea/modules/OTADemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OTADemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OTADemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OTADemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OTADemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OTADemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OTADemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OTADemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OTADemo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SYD_OTA_Tool.iml" filepath="$PROJECT_DIR$/SYD_OTA_Tool.iml" group="SYD_OTA_Tool" />
+    </modules>
+  </component>
+</project>
